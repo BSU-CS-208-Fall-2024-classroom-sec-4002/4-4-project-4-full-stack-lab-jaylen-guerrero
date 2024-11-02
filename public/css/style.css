@@ -1,3 +1,28 @@
 body{
-    background-color: hotpink;
+    background-color: grey;
+    h1 {
+        color: hotpink;
+    }
+    p {
+        color: yellow;
+    }
+    label {
+        color: blueviolet;
+    }
+    input {
+        color: blue;
+    }
+    #list {
+        color: firebrick;
+        font-family: Courier;
+    }
+    li {
+        color: white;
+        
+    }
+    #del {
+        color: red;
+        font-size: large;
+        background-color: aqua;
+    }
 }
